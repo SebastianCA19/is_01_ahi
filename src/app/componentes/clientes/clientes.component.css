@@ -1,0 +1,14 @@
+.carousel-control-prev-icon{
+    background-color: black;
+}
+
+.carousel-control-next-icon{
+    background-color: black;
+}
+
+.carousel-indicators{
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
